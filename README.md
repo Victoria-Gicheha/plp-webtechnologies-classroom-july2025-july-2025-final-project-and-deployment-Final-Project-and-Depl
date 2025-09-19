@@ -1,129 +1,59 @@
-<<<<<<< HEAD
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🍰 TORRIE’S CAKE KULTURE Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+A modern, responsive website for TORRIE’S CAKE KULTURE — a Nairobi-based cake house specializing in customized birthday cakes, cupcakes, and soon wedding cakes. The site is designed to be visually appealing, mobile-friendly, and easy to navigate. 
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
-
----
-
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+✨ Features
+🎂 **Responsive design** (works on mobile, tablet, and desktop)
+🍰 **Navigation bar** with Home, About Us, Products, and Contact pages
+🧁 **Stylish typography & colors** that match a cake shop’s aesthetic
+🎀 **Interactive elements** (hover effects, buttons, animations)
+📸 **Product gallery** with cake images
+📬 **Contact form** (Name, Email, Phone, Message)
+📍 Business info: Located in Nairobi, Kenya
+✅ **Pure Vanilla Stack** – No frameworks, no dependencies
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
-=======
-# 🚀 Torrie's Cake House
-
-A fully responsive **multi-page website template** built with **vanilla HTML, CSS, and JavaScript**.
-This project displays 
-
----
-
-## 📂 Features
-
-* ✅ **Responsive layout** – Works on mobile, tablet, and desktop
-* ✅ **Gradient navigation & hero sections** – Modern blended color scheme
-* ✅ **Smooth testimonial carousel** – Auto-sliding client feedback
-* ✅ **Pure Vanilla Stack** – No frameworks, no dependencies
-
----
 ## 📁 Project Structure
-
 ```
-/project
-  ├── index.html        # Landing page
-  ├── css/
-  │     └── style.css   # Main stylesheet
-  ├── js/
-  │     └── main.js     # Carousel & lightbox logic
-  └── images/           # Placeholder images
+torries-cake-kulture/
+│
+├── index.html        # Home page
+├── about.html        # About Us page
+├── products.html     # Products page
+├── contact.html      # Contact page
+│
+├── styles.css        # Global styles
+├── script.js         # Interactivity (hamburger menu, animations)
+│
+├── images/           # Cake images (used in products page)
+│   └── chocolate.jpg
+│   └── vanilla.jpg
+│   └── red-velvet.jpg
+│   └── ...
+│
+└── README.md         # Project documentation
+
 ```
 
 ## 🛠️ Getting Started
-### 1. Clone the repo
+### 1️⃣ Clone the repo
 ```bash
-git clone 
-cd 
+git clone https://github.com/Victoria-Gicheha/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
+cd WEEK 8 PROJECT
 ```
-### 2. Open in browser
-Open the `index.html` file in your browser to previes the site.
-*(No build tools are requires - it's pure HTML/CSS/JS.)*
->>>>>>> ff2aac0 (First Commit of the week 8 capstone project.)
+### 2️⃣ Open in browser
+Simply open index.html in your browser:
+open index.html    # Mac
+xdg-open index.html # Linux
+start index.html   # Windows
+### 3️⃣ Customize
+Replace the images inside /images/ with your own cake photos.
+Update contact details inside contact.html.
+Adjust colors, fonts, and text in styles.css.
+
+# 📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and share.
