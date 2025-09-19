@@ -4,7 +4,7 @@ A modern, responsive website for TORRIE’S CAKE KULTURE — a Nairobi-based cak
 
 ---
 
-✨ Features
+# ✨ Features
 * 🎂 **Responsive design** (works on mobile, tablet, and desktop)
 * 🍰 **Navigation bar** with Home, About Us, Products, and Contact pages
 * 🧁 **Stylish typography & colors** that match a cake shop’s aesthetic
@@ -20,25 +20,29 @@ A modern, responsive website for TORRIE’S CAKE KULTURE — a Nairobi-based cak
 ```
 torries-cake-kulture/
 │
-├── index.html        # Home page
-├── about.html        # About Us page
-├── products.html     # Products page
-├── contact.html      # Contact page
+├── index.html                   # Home page
+├── about.html                   # About Us page
+├── products.html                # Products page
+├── contact.html                 # Contact page
 │
-├── styles.css        # Global styles
-├── script.js         # Interactivity (hamburger menu, animations)
+├── css/                         # Stylesheets
+│ └── style.css                  # Main CSS file
 │
-├── images/           # Cake images (used in products page)
-│   └── chocolate.jpg
-│   └── vanilla.jpg
-│   └── red-velvet.jpg
-│   └── ...
+├── js/                          # JavaScript files
+│ └── script.js                  # Main JS file (navbar, interactivity)
 │
-└── README.md         # Project documentation
+├── images/                      # Images for products, hero section, etc.
+│ ├── cake-1.jpg
+│ ├── cake-2.jpg
+│ ├── cake-3.jpg
+│ └── ...
+│
+└── README.md                   # Project documentation
 
 ```
 
 ## 🛠️ Getting Started
+
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/Victoria-Gicheha/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
