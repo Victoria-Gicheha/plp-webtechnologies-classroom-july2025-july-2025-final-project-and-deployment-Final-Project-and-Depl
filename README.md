@@ -5,14 +5,14 @@ A modern, responsive website for TORRIE’S CAKE KULTURE — a Nairobi-based cak
 ---
 
 ✨ Features
-🎂 **Responsive design** (works on mobile, tablet, and desktop)
-🍰 **Navigation bar** with Home, About Us, Products, and Contact pages
-🧁 **Stylish typography & colors** that match a cake shop’s aesthetic
-🎀 **Interactive elements** (hover effects, buttons, animations)
-📸 **Product gallery** with cake images
-📬 **Contact form** (Name, Email, Phone, Message)
-📍 Business info: Located in Nairobi, Kenya
-✅ **Pure Vanilla Stack** – No frameworks, no dependencies
+* 🎂 **Responsive design** (works on mobile, tablet, and desktop)
+* 🍰 **Navigation bar** with Home, About Us, Products, and Contact pages
+* 🧁 **Stylish typography & colors** that match a cake shop’s aesthetic
+* 🎀 **Interactive elements** (hover effects, buttons, animations)
+* 📸 **Product gallery** with cake images
+* 📬 **Contact form** (Name, Email, Phone, Message)
+* 📍 Business info: Located in Nairobi, Kenya
+* ✅ **Pure Vanilla Stack** – No frameworks, no dependencies
 
 ---
 
