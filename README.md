@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
@@ -88,3 +89,41 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+=======
+# 🚀 Torrie's Cake House
+
+A fully responsive **multi-page website template** built with **vanilla HTML, CSS, and JavaScript**.
+This project displays 
+
+---
+
+## 📂 Features
+
+* ✅ **Responsive layout** – Works on mobile, tablet, and desktop
+* ✅ **Gradient navigation & hero sections** – Modern blended color scheme
+* ✅ **Smooth testimonial carousel** – Auto-sliding client feedback
+* ✅ **Pure Vanilla Stack** – No frameworks, no dependencies
+
+---
+## 📁 Project Structure
+
+```
+/project
+  ├── index.html        # Landing page
+  ├── css/
+  │     └── style.css   # Main stylesheet
+  ├── js/
+  │     └── main.js     # Carousel & lightbox logic
+  └── images/           # Placeholder images
+```
+
+## 🛠️ Getting Started
+### 1. Clone the repo
+```bash
+git clone 
+cd 
+```
+### 2. Open in browser
+Open the `index.html` file in your browser to previes the site.
+*(No build tools are requires - it's pure HTML/CSS/JS.)*
+>>>>>>> ff2aac0 (First Commit of the week 8 capstone project.)
