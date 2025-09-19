@@ -1,5 +1,9 @@
 # 🍰 TORRIE’S CAKE KULTURE Website
 
+## Live Website
+📦 [Download Project (Zipped)] (https://drive.google.com/file/d/1p09KLQ1elmJ6eHF7i6-NYVPgG17-4drS/view?usp=drive_link)
+🌐 [Click here to view the live site] (https://victoria-gicheha.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+
 A modern, responsive website for TORRIE’S CAKE KULTURE — a Nairobi-based cake house specializing in customized birthday cakes, cupcakes, and soon wedding cakes. The site is designed to be visually appealing, mobile-friendly, and easy to navigate. 
 
 ---
